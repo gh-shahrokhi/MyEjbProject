@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ejbModule"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_77">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="oracle.eclipse.tools.weblogic.lib.system">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.ejb"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/.m2/repository/javax/ejb/javax.ejb-api/3.2/javax.ejb-api-3.2.jar"/>
+	<classpathentry kind="lib" path="F:/Software/java_Tools/weblogic/wls12213/wlserver/server/lib/wlfullclient.jar"/>
+	<classpathentry kind="lib" path="F:/Software/java_Tools/weblogic/wls12213/wlserver/server/lib/wlclient.jar"/>
+	<classpathentry kind="lib" path="F:/Software/java_Tools/weblogic/wls12213/wlserver/server/lib/wlthint3client.jar"/>
+	<classpathentry kind="lib" path="F:/Software/java_Tools/weblogic/wls12213/wlserver/server/lib/weblogic.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
