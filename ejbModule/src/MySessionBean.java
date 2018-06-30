@@ -13,7 +13,7 @@ import src.entity.Employee;
  * Session Bean implementation class MySessionBean
  */
 @Stateless (mappedName = "src/MySessionBean")
-@LocalBean
+//@LocalBean
 public class MySessionBean implements MySessionBeanRemote {
 
     /**

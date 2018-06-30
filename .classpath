@@ -17,5 +17,6 @@
 	<classpathentry kind="lib" path="F:/Software/java_Tools/weblogic/wls12213/wlserver/server/lib/wlclient.jar"/>
 	<classpathentry kind="lib" path="F:/Software/java_Tools/weblogic/wls12213/wlserver/server/lib/wlthint3client.jar"/>
 	<classpathentry kind="lib" path="F:/Software/java_Tools/weblogic/wls12213/wlserver/server/lib/weblogic.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Desktop/oc4j_extended_101350/j2ee/home/oc4jclient.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
